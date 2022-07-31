@@ -76,7 +76,7 @@ class bank
 int main()
 {
     bank b1;
-
+cout<<"BANK"<<endl;
 b1.get();
 b1.display();
 return 0;
